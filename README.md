@@ -145,9 +145,7 @@ information section of the shiny app.
 * For an English version of the predictor check the <a href="https://rvaz.shinyapps.io/english_predictor/" target="_blank">
 English app</a>.  
 
-* Or for a bilingual Spanish-English version with language auto-detect check the
-<a href="https://rvaz.shinyapps.io/en_es_predictor/" target="_blank">
-EN-ES app</a>.  
+* Or for a bilingual Spanish-English version with language auto-detect check the <a href="https://rvaz.shinyapps.io/en_es_predictor/" target="_blank">EN-ES app</a>.  
 
 * [GitHub Pages](https://reyvaz.github.io/NLP-Spanish-Predictor/).  
 
