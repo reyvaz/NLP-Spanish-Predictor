@@ -1,7 +1,7 @@
 <a href="https://rvaz.shinyapps.io/es_predictor/" target="_blank">
 <b>Presiona aquí</b></a> para ver la app online.
 
-<a href="#eng_lang">**Click here**</a> **to read the info in**
+<a href="#eng_lang">**Click here**</a> to read the info in
 <a href="#eng_lang">**English**</a>
 
 
@@ -25,18 +25,16 @@ palabra o una frase como argumento, es la que genera las sugerencias para la
 palabra en curso y la palabra siguiente.  
 
 * Para ver el predictor en acción, visita la aplicación
-<a href="https://rvaz.shinyapps.io/es_predictor/" target="_blank">aquí</a>. 
+<a href="https://rvaz.shinyapps.io/es_predictor/" target="_blank">aquí</a>.   
 
-* Para más información visita la sección de información de la aplicación.  
+* Para más información visita la sección de información de la aplicación.    
 
-* Para ver la versión inglés de la aplicación visita
-<a href="https://rvaz.shinyapps.io/english_predictor/" target="_blank">
-English app</a>
+* Para ver la versión inglés de la aplicación visita <a href="https://rvaz.shinyapps.io/english_predictor/" target="_blank">
+English app</a>.  
 
 * O para la versión bilingüe ingles-español con detector automático de idioma
-visita
-<a href="https://rvaz.shinyapps.io/en_es_predictor/" target="_blank">
-EN-ES app</a>
+visita <a href="https://rvaz.shinyapps.io/en_es_predictor/" target="_blank">
+EN-ES app</a>.   
 
 * Ver esta página en [GitHub Pages](https://reyvaz.github.io/NLP-Spanish-Predictor/).  
 
@@ -126,9 +124,9 @@ rel="see html report">
 * The R script with the word predicting algorithm which makes suggestions for 
 the word being typed and for the next word.  
 
-* The files required by the algorithm  with codified information of over 1 million ngrams.  
+* The files required by the algorithm  with codified information of over 1 million ngrams.   
 
-* The shinyUI and shinyServer scripts to run the predictor in a Shiny app.  
+* The shinyUI and shinyServer scripts to run the predictor in a Shiny app.   
 
 ### Instructions
 
@@ -139,18 +137,17 @@ produce the suggestions for both, the current word and the following word.
 
 * To see the predictor at work visit the app
 <a href="https://rvaz.shinyapps.io/es_predictor/" target="_blank">
-here</a>. 
+here</a>.   
 
 * To learn more about the app, the algorithms, or the corpus, visit the 
-information section of the shiny app.
+information section of the shiny app.  
 
-* For an English version of the predictor check the
-<a href="https://rvaz.shinyapps.io/english_predictor/" target="_blank">
-English app</a>.
+* For an English version of the predictor check the <a href="https://rvaz.shinyapps.io/english_predictor/" target="_blank">
+English app</a>.  
 
-* Or for a bilingual Spanish-English version with language auto-detect check the 
+* Or for a bilingual Spanish-English version with language auto-detect check the
 <a href="https://rvaz.shinyapps.io/en_es_predictor/" target="_blank">
-EN-ES app</a>.
+EN-ES app</a>.  
 
 * [GitHub Pages](https://reyvaz.github.io/NLP-Spanish-Predictor/).  
 
