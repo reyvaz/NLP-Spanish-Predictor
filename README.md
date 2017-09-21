@@ -151,7 +151,7 @@ EN-ES app</a>.
 
 * [GitHub Pages](https://reyvaz.github.io/NLP-Spanish-Predictor/).  
 
-### About
+### More Information
 
 The shiny app takes text as an input and automatically, 
 
