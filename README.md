@@ -107,10 +107,10 @@ Predictions per second = 500
 <br><br>
 <p align="center">
 <a href="https://reyvaz.github.io/NLP-Spanish-Predictor/" 
-rel="see html report">
+rel="github pages">
 <img src="esp_cloud.png" alt="Drawing" width = "500"></a>
 </p>
-<br><br>
+<br>
 
 <h1 id="eng_lang"></h1>
 <br>
@@ -147,7 +147,7 @@ English app</a>.
 
 * Or for a bilingual Spanish-English version with language auto-detect check the <a href="https://rvaz.shinyapps.io/en_es_predictor/" target="_blank">EN-ES app</a>.  
 
-* [GitHub Pages](https://reyvaz.github.io/NLP-Spanish-Predictor/).  
+* See this on [GitHub Pages](https://reyvaz.github.io/NLP-Spanish-Predictor/).  
 
 ### More Information
 
@@ -217,12 +217,11 @@ allows for smooth execution, and easy scale-up without being heavy on resources.
 <br>
 <p align="center">
 <a href="https://reyvaz.github.io/NLP-Spanish-Predictor/" 
-rel="see html report">
+rel="github pages">
 <img src="esp_cloud.png" alt="Drawing" width = "500"></a>
 </p>
 <br>
-<hr>
-<br>
+
 
 
 
